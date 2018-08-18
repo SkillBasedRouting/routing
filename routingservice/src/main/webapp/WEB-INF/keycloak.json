@@ -1,0 +1,8 @@
+{
+  "realm": "routing",
+  "bearer-only": true,
+  "auth-server-url": "http://routing/auth",
+  "ssl-required": "external",
+  "resource": "routingservice",
+  "use-resource-role-mappings": true
+}

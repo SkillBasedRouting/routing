@@ -1,0 +1,8 @@
+{
+  "realm": "routing",
+  "auth-server-url": "http://routing/auth",
+  "resource": "routingservice-intern",
+  "credentials": {
+    "secret": "84e1a48a-2ccb-4e76-9e53-f64fe3108f79"
+  }
+}

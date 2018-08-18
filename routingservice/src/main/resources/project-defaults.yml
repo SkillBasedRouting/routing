@@ -1,0 +1,10 @@
+swarm:
+  deployment:
+#    routingservice-1.0.0-RC1.war:
+#      web:
+#        login-config:
+#          auth-method: KEYCLOAK
+#        security-constraints:
+#          - url-pattern: /api/v1/*
+#            methods: [GET, POST, PUT, PATCH, DELETE]
+#            roles: ['http://routing.com/routingservice']
